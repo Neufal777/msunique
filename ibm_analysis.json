@@ -1,0 +1,165 @@
+{
+  "IBM_2023_Annual_Report": {
+    "overview": {
+      "title": "2023 Annual Report",
+      "chairman_and_ceo": "Arvind Krishna",
+      "salutation": "Dear IBM Investor:",
+      "message": "In 2023, we made significant progress in our journey to become a more innovative and focused company, built around the two most transformational technologies of our time: hybrid cloud and AI.",
+      "content": [
+        "We executed against a proven strategy, refined our portfolio, expanded our ecosystem of partners, and enhanced productivity throughout IBM.",
+        "We also continued to address the evolving needs of our clients. As AI becomes a top priority, our clients are using watsonx – IBM's flagship AI and data platform – to help revolutionize customer service, modernize countless lines of code, and automate enterprise tasks to boost employee productivity.",
+        "I have never been more confident in IBM’s direction. Today’s IBM is more capable and more productive. We have a strong portfolio and a solid foundation to support sustainable growth. And we are delivering on our promise to be the catalyst that makes the world work better.",
+        "For the year, IBM generated $61.9 billion in revenue, up 3% at constant currency, and $11.2 billion of free cash flow, up $1.9 billion year-over-year."
+      ],
+      "performance_summary": {
+        "key_metrics": {
+          "total_revenue": "$61.9 billion",
+          "revenue_growth": "3%",
+          "free_cash_flow": "$11.2 billion",
+          "year_over_year_free_cash_flow_increase": "$1.9 billion"
+        },
+        "business_segments": {
+          "Software": {
+            "revenue": "$26,308 million",
+            "percentage_of_total": "42.5%",
+            "year_over_year_change": "5.1%"
+          },
+          "Consulting": {
+            "revenue": "$19,985 million",
+            "percentage_of_total": "32.2%",
+            "year_over_year_change": "4.6%"
+          },
+          "Infrastructure": {
+            "revenue": "$14,593 million",
+            "percentage_of_total": "23.6%",
+            "year_over_year_change": "-4.5%"
+          },
+          "Financing": {
+            "revenue": "$741 million",
+            "percentage_of_total": "1.1%",
+            "year_over_year_change": "14.8%"
+          }
+        }
+      }
+    },
+    "financial_performance": {
+      "year_in_review": [
+        {
+          "segment": "Software",
+          "details": {
+            "total_revenue": "$26,308 million",
+            "hybrid_platform_solutions": "$18,693 million",
+            "transaction_processing": "$7,615 million",
+            "gross_profit_margin": "80.1%",
+            "pre_tax_income": "$6,571 million",
+            "pre_tax_margin": "25.0%"
+          }
+        },
+        {
+          "segment": "Consulting",
+          "details": {
+            "total_revenue": "$19,985 million",
+            "business_transformation": "$9,179 million",
+            "technology_consulting": "$3,849 million",
+            "application_operations": "$6,958 million",
+            "gross_profit_margin": "26.6%",
+            "pre_tax_income": "$1,918 million",
+            "pre_tax_margin": "9.6%"
+          }
+        },
+        {
+          "segment": "Infrastructure",
+          "details": {
+            "total_revenue": "$14,593 million",
+            "hybrid_infrastructure": "$9,215 million",
+            "infrastructure_support": "$5,377 million",
+            "gross_profit_margin": "56.0%",
+            "pre_tax_income": "$2,421 million",
+            "pre_tax_margin": "16.6%"
+          }
+        },
+        {
+          "segment": "Financing",
+          "details": {
+            "total_revenue": "$741 million",
+            "client_financing": "$728 million",
+            "gross_profit_margin": "48.1%",
+            "pre_tax_income": "$374 million",
+            "pre_tax_margin": "50.5%"
+          }
+        }
+      ]
+    },
+    "human_capital": {
+      "workforce_statistics": {
+        "total_employees": "282.2K",
+        "non_wholly_owned_subsidiaries": "8.7K",
+        "complementary": "14.4K"
+      },
+      "diversity_and_inclusion": {
+        "focus": "gender, race, inclusivity",
+        "initiatives": [
+          "Increased female executive representation by 1.1 points",
+          "Increased Hispanic executive representation by 0.5 points",
+          "Engaged over 187,000 employees globally via surveys"
+        ]
+      },
+      "employee_engagement": {
+        "voluntary_attrition_trend": "Decreased in 2023 compared to each of the past two years",
+        "employee_participation_in_survey": "More than 187,000 respondents",
+        "employee_sentiment": "Over 80% satisfied"
+      }
+    },
+    "technology_and_expertise": {
+      "top_technologies": {
+        "AI": "Watsonx platform advancement and client success with generative AI",
+        "hybrid_cloud": "80% adoption of hybrid cloud environments, key use cases with Red Hat OpenShift"
+      },
+      "research_and_development": {
+        "2023_investment": "$7 billion",
+        "key_innovations": [
+          "Watsonx AI and data platform",
+          "133-qubit Quantum Heron processor"
+        ],
+        "partnering_clients": [
+          "Cleveland Clinic",
+          "Platform for Digital and Quantum Innovation of Quebec",
+          "University of Tokyo"
+        ]
+      },
+      "client_engagement_and_partnerships": {
+        "strategic_partnerships": [
+          "Amazon",
+          "Microsoft",
+          "SAP",
+          "Salesforce",
+          "Adobe"
+        ],
+        "client_impact": [
+          "Virgin Money",
+          "Bradesco",
+          "NatWest"
+        ]
+      }
+    },
+    "financials_and_notes": {
+      "Financial Statements": {
+        "Income_Statement": {
+          "total_revenue": "$61,860 million",
+          "total_cost": "$27,560 million",
+          "gross_profit": "$34,300 million"
+        },
+        "Balance_Sheet": {
+          "total_assets": "$135,241 million",
+          "total_liabilities": "$112,628 million",
+          "total_equity": "$22,613 million"
+        },
+        "Cash_Flows": {
+          "net_cash_from_operating_activities": "$13,931 million",
+          "net_cash_used_in_investing_activities": "($7,070 million)",
+          "net_cash_used_in_financing_activities": "($1,769 million)"
+        }
+      }
+    }
+  }
+}
